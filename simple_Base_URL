@@ -1,0 +1,7 @@
+<x> 
+LOOP: ITERATION = 1;
+SOURCE: /ACS302/Base_URL/1;
+DECLARE: sCALL2;
+DEFINE: NIL;
+Base_URL = 128+/-@(á-ENí)+;
+</x>
